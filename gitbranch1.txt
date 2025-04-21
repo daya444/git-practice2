@@ -1,2 +1,0 @@
-gitbranch1
-new line added
